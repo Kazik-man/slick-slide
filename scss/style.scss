@@ -12,7 +12,6 @@ html, body {
     margin: 0;
 }
 
-​
 body, form, div, p, a, img, h1, h2, h3, h4, h5, h6, table, table tr, table td {
     border: none;
     color: #000000;
@@ -23,7 +22,6 @@ body, form, div, p, a, img, h1, h2, h3, h4, h5, h6, table, table tr, table td {
     margin: 0;
     padding: 0;
 }
-​
 input,
 textarea,
 select {
@@ -34,12 +32,10 @@ select {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-​
 input::-moz-focus-inner {
     border: 0;
     padding: 0;
 }
-​
 a {
     text-decoration: underline;
     outline: none;
@@ -50,7 +46,6 @@ a {
         border: 1px solid red;
     }
 }
-
 
 .header {
     margin: 64px auto;
